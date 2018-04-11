@@ -51,3 +51,10 @@
 
 @include motion-ui-transitions;
 @include motion-ui-animations;
+
+// Component imports
+
+@import 'components/background-image'
+
+// @import 'components/component-name'
+// components should be named _component-name.scss
